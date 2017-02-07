@@ -1,0 +1,11 @@
+.largertext {
+  font-size:20px;
+  color: #ffffff;
+}
+body {
+  background-color: #9c9999;
+}
+
+.remove-underline {
+  text-decoration: none;
+}
